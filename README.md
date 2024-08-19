@@ -19,7 +19,7 @@ This repository includes several datasets that are used for visualization and an
 1. **[Mouse_metadata.csv](data/Mouse_metadata.csv)**: The set contains the mice IDs, their gender, and the drug treatment each mouse received. It is a dataset provided by UCI for the Data Analytics Boot Camp Program students.
 
 2. **[Study_results.csv](data/Study_results.csv)**: 
-The set contains the mouse ID, the timepoint, the tumor Volume (mm3), the metastatic sites. It is a dataset provided by UCI for the Data Analytics Boot Camp Program student.
+The set contains the mouse ID, the timepoint, the tumor Volume (mm3), the metastatic sites. It is a dataset provided by UCI for the Data Analytics Boot Camp Program students.
 
 ## Analysis Process
 
